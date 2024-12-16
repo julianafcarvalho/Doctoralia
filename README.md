@@ -1,6 +1,6 @@
 # Relatório de Testes - Teleconsulta Portugal
 
-Este documento descreve os testes realizados na API fornecida e na funcionalidade de marcação de consulta para usuários no site [Teleconsulta Portugal](https://teleconsultaportugal.com/consultas-online/).
+Este documento descreve os testes realizados num sistema secundário, já que a passada teve erro de DB, usei então a funcionalidade de marcação de consulta para usuários no site [Teleconsulta Portugal](https://teleconsultaportugal.com/consultas-online/).
 
 ## Objetivo do Teste
 
